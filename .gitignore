@@ -1,3 +1,11 @@
 #personal dev
 .personaldev/
 
+#cache
+__pycache__
+
+#environment (venv)
+.venv/
+
+#development
+run.ps1
