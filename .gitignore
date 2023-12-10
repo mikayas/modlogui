@@ -8,4 +8,6 @@ __pycache__
 .venv/
 
 #development
+modloader/
+paths.ini
 run.ps1
